@@ -27,5 +27,7 @@ public class Main {
         System.out.println("Total Pages: " + csc143.totalPages);
         System.out.println("ISBN-10: " + csc143.isbn10);
 
+        Car honda = new Car("Toyota", "Camry", 2004);
+
     }
 }
