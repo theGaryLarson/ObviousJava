@@ -1,4 +1,8 @@
 public class Radio {
-    String station;
+    String[] stations = new String[10];
     double volume;
+
+    public Radio() {
+
+    }
 }
